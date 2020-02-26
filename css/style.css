@@ -21,9 +21,9 @@ div.padded-col {
 
 # Overwriting bootstrap colours 
 .bg-dark {
-    background-color: #212121;
+    background-color: #212121 !important;
 }
 
 .bg-secondary {
-    background-color: #424242;
+    background-color: #424242 !important;
 }
