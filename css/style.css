@@ -18,3 +18,12 @@ div.container {
 div.padded-col {
     margin: 2px;
 }
+
+# Overwriting bootstrap colours 
+.bg-dark {
+    background-color: #212121;
+}
+
+.bg-secondary {
+    background-color: #424242;
+}
