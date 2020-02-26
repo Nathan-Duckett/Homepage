@@ -20,7 +20,7 @@ div.padded-col {
 }
 
 # Overwriting bootstrap colours 
-.bg-dark {
+body.bg-dark {
     background-color: #212121 !important;
 }
 
