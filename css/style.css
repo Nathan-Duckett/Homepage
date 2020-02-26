@@ -19,7 +19,7 @@ div.padded-col {
     margin: 2px;
 }
 
-// Overwriting bootstrap colours 
+/* Overwriting bootstrap colours */
 body {
     background-color: #212121 !important;
 }
