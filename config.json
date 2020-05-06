@@ -14,6 +14,9 @@
         [{
           "Name": "Play Music",
           "Link": "https://play.google.com/music/listen"
+        },{
+          "Name": "Netflix",
+          "Link": "https://www.netflix.com/browse"
         }]
       ]
     }],
