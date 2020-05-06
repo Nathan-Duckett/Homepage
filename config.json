@@ -167,6 +167,9 @@
         }, {
           "Name": "Javadocs",
           "Link": "https://course-work.glp.ecs.vuw.ac.nz/engr300/2020/group10/group-10/javadoc/"
+        }, {
+          "Name": "Merge Requests",
+          "Link": "https://gitlab.ecs.vuw.ac.nz/course-work/engr300/2020/group10/group-10/-/merge_requests"
         }]
       ]
     }]
