@@ -1,0 +1,172 @@
+{
+  "Rows": [
+    [{
+      "Title": "Remote Access",
+      "Links": [
+        [{
+          "Name": "Parsec",
+          "Link": "https://app.parsecgaming.com/"
+        }]
+      ]
+    }, {
+      "Title": "Media",
+      "Links": [
+        [{
+          "Name": "Play Music",
+          "Link": "https://play.google.com/music/listen"
+        }]
+      ]
+    }],
+    [{
+      "Title": "University Links",
+      "Links": [
+        [{
+            "Name": "SWEN301",
+            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN301_2020T1/WebHome"
+          },
+          {
+            "Name": "SWEN326",
+            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN326_2020T1/WebHome"
+          }
+        ],
+        [{
+            "Name": "NWEN303",
+            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN303_2020T1/WebHome"
+          },
+          {
+            "Name": "ENGR301",
+            "Link": "https://ecs.victoria.ac.nz/Courses/ENGR301_2020T1/WebHome"
+          }
+        ],
+        [{
+          "Type": "GAP"
+        }],
+        [{
+            "Name": "Gitlab",
+            "Link": "https://gitlab.ecs.vuw.ac.nz/"
+          },
+          {
+            "Name": "Mattermost",
+            "Link": "https://mattermost.ecs.vuw.ac.nz/engr300-2020/"
+          }
+        ],
+        [{
+          "Type": "GAP"
+        }],
+        [{
+          "Name": "Marks",
+          "Link": "https://apps.ecs.vuw.ac.nz/cgi-bin/studentmarks"
+        }]
+      ]
+    }, {
+      "Title": "Server",
+      "Links": [
+        [{
+          "Name": "Plex",
+          "Link": "http://nathan-duckett.ddns.net:32400/web"
+        }],
+        [{
+          "Name": "Sonarr",
+          "Link": "http://nathan-duckett.ddns.net:8989"
+        }, {
+          "Name": "Radarr",
+          "Link": "http://nathan-duckett.ddns.net:7878"
+        }, {
+          "Name": "Lidarr",
+          "Link": "http://nathan-duckett.ddns.net:8686"
+        }],
+        [{
+          "Name": "qBittorrent",
+          "Link": "http://nathan-duckett.ddns.net:8080"
+        }, {
+          "Name": "Tautulli",
+          "Link": "http://nathan-duckett.ddns.net:8181"
+        }, {
+          "Name": "Jackett",
+          "Link": "http://nathan-duckett.ddns.net:9117"
+        }],
+        [{
+          "Name": "Mist.io",
+          "Link": "https://nathan-duckett.ddns.net"
+        }, {
+          "Name": "Portainer",
+          "Link": "http://nathan-duckett.ddns.net:9000"
+        }]
+      ]
+    }],
+    [{
+      "Title": "Job Links",
+      "Links": [
+        [{
+          "Name": "Summer of Tech",
+          "Link": "https://app.summeroftech.co.nz/students/me/dashboard"
+        }, {
+          "Name": "SJS",
+          "Link": "https://sjs.co.nz"
+        }]
+      ]
+    }, {
+      "Title": "General",
+      "Links": [
+        [{
+            "Name": "Gmail",
+            "Link": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
+          },
+          {
+            "Name": "Drive",
+            "Link": "https://drive.google.com/drive/my-drive"
+          }
+        ],
+        [{
+          "Name": "Reddit",
+          "Link": "https://reddit.com/"
+        }, {
+          "Name": "Youtube",
+          "Link": "https://youtube.com/"
+        }],
+        [{
+          "Name": "Feedly",
+          "Link": "https://feedly.com/i/my"
+        }, {
+          "Name": "Facebook",
+          "Link": "https://facebook.com/"
+        }]
+      ]
+    }, {
+      "Title": "Programming",
+      "Links": [
+        [{
+          "Name": "Github",
+          "Link": "https://github.com/"
+        }, {
+          "Name": "Azure Devops",
+          "Link": "https://nathanduckett.visualstudio.com/"
+        }],
+        [{
+          "Name": "AWS Console",
+          "Link": "https://console.aws.amazon.com/console/home?region=us-east-1"
+        }],
+        [{
+          "Name": "Gitlab",
+          "Link": "https://gitlab.com/"
+        }, {
+          "Name": "Bitbucket",
+          "Link": "https://bitbucket.org/dashboard/overview"
+        }]
+      ]
+    }],
+    [{
+      "Title": "ENGR301: Group Resources",
+      "Links": [
+        [{
+          "Name": "Code Coverage",
+          "Link": "https://course-work.glp.ecs.vuw.ac.nz/engr300/2020/group10/group-10/jacoco/"
+        }, {
+          "Name": "Javadocs",
+          "Link": "https://course-work.glp.ecs.vuw.ac.nz/engr300/2020/group10/group-10/javadoc/"
+        }]
+      ]
+    }]
+
+  ]
+}
