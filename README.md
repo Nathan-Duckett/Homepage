@@ -7,7 +7,7 @@ It can be viewed [here](https://nathan-duckett.github.io/Homepage).
 The `config.yaml` file provides a method to specify links and functionality on the homepage (to be expanded upon later).
 
 To use the configuration the structure is as follows:
-```json
+```sh
 {
     // Root element
     "Rows": [
