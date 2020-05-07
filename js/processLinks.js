@@ -1,3 +1,9 @@
+/*
+  Author: Nathan Duckett
+  Provides functionality to load JSON configuration and build
+  the homepage website to match the specification I require.
+*/
+
 /**
  * Set the contents of the Display. Processes the content from the JSON file and
  * set the content values inside the HTML.
