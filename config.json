@@ -94,6 +94,10 @@
         }, {
           "Name": "Portainer",
           "Link": "http://nathan-duckett.ddns.net:9000"
+        }],
+        [{
+          "Name": "Cockpit VM",
+          "Link": "https://10.0.0.10:9090/machines"
         }]
       ]
     }],
