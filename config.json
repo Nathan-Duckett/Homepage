@@ -89,7 +89,7 @@
           "Link": "http://nathan-duckett.ddns.net:9117"
         }],
         [{
-          "Name": "Mist.io",
+          "Name": "Gitlab",
           "Link": "https://nathan-duckett.ddns.net"
         }, {
           "Name": "Portainer",
@@ -98,6 +98,9 @@
         [{
           "Name": "Cockpit VM",
           "Link": "https://10.0.0.10:9090/machines"
+        }, {
+          "Name": "Pihole",
+          "Link": "http://10.0.0.60/admin"
         }]
       ]
     }],
