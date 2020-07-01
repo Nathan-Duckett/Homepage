@@ -37,10 +37,10 @@ To use the configuration the structure is as follows:
 }
 ```
 
-This can be expanded for as much content as you require for all your links.
+This can be expanded for as much content as you require for all your links. Allowing you to build up a structure of links/containers within to display all your shortcuts.
 
 ## Expansions
 Looking to expand the functionality within the JSON parsing to allow widget creation to show statistics or other details from external sources.
 
 ## Notes
-Feel free to fork this repo and create your own `config.yaml` file to host your own homepage. I accept no responsibilty for any issues you may have with the code in your own usage.
+Feel free to fork this repo and create your own `config.json` file to host your own homepage. I accept no responsibilty for any issues you may have with the code in your own usage.
