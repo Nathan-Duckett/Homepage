@@ -14,7 +14,7 @@
         [{
           "Name": "Play Music",
           "Link": "https://play.google.com/music/listen"
-        },{
+        }, {
           "Name": "Netflix",
           "Link": "https://www.netflix.com/browse"
         }]
@@ -24,21 +24,21 @@
       "Title": "University Links",
       "Links": [
         [{
-            "Name": "SWEN301",
-            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN301_2020T1/WebHome"
+            "Name": "SWEN325",
+            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN325_2020T2/WebHome"
           },
           {
-            "Name": "SWEN326",
-            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN326_2020T1/WebHome"
+            "Name": "NWEN302",
+            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN302_2020T2/WebHome"
           }
         ],
         [{
-            "Name": "NWEN303",
-            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN303_2020T1/WebHome"
+            "Name": "NWEN304",
+            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN304_2020T2/WebHome"
           },
           {
-            "Name": "ENGR301",
-            "Link": "https://ecs.victoria.ac.nz/Courses/ENGR301_2020T1/WebHome"
+            "Name": "ENGR302",
+            "Link": "https://ecs.victoria.ac.nz/Courses/ENGR302_2020T2/WebHome"
           }
         ],
         [{
