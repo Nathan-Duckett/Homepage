@@ -24,27 +24,6 @@
       "Title": "University Links",
       "Links": [
         [{
-            "Name": "SWEN325",
-            "Link": "https://ecs.victoria.ac.nz/Courses/SWEN325_2020T2/WebHome"
-          },
-          {
-            "Name": "NWEN302",
-            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN302_2020T2/WebHome"
-          }
-        ],
-        [{
-            "Name": "NWEN304",
-            "Link": "https://ecs.victoria.ac.nz/Courses/NWEN304_2020T2/WebHome"
-          },
-          {
-            "Name": "ENGR302",
-            "Link": "https://ecs.victoria.ac.nz/Courses/ENGR302_2020T2/WebHome"
-          }
-        ],
-        [{
-          "Type": "GAP"
-        }],
-        [{
             "Name": "Gitlab",
             "Link": "https://gitlab.ecs.vuw.ac.nz/"
           },
@@ -66,34 +45,27 @@
       "Links": [
         [{
           "Name": "Plex",
-          "Link": "http://nathan-duckett.ddns.net:32400/web"
+          "Link": "https://app.plex.tv/"
         }],
         [{
           "Name": "Sonarr",
-          "Link": "http://nathan-duckett.ddns.net:8989"
+          "Link": "https://sonarr.ndser.page"
         }, {
           "Name": "Radarr",
-          "Link": "http://nathan-duckett.ddns.net:7878"
+          "Link": "https://radarr.ndser.page"
         }, {
           "Name": "Lidarr",
-          "Link": "http://nathan-duckett.ddns.net:8686"
+          "Link": "https://lidarr.ndser.page"
         }],
         [{
           "Name": "qBittorrent",
-          "Link": "http://nathan-duckett.ddns.net:8080"
+          "Link": "https://qbittorrent.ndser.page"
         }, {
           "Name": "Tautulli",
-          "Link": "http://nathan-duckett.ddns.net:8181"
+          "Link": "https://tautulli.ndser.page"
         }, {
           "Name": "Jackett",
-          "Link": "http://nathan-duckett.ddns.net:9117"
-        }],
-        [{
-          "Name": "Gitlab",
-          "Link": "https://nathan-duckett.ddns.net"
-        }, {
-          "Name": "Portainer",
-          "Link": "http://nathan-duckett.ddns.net:9000"
+          "Link": "https://jackett.ndser.page"
         }],
         [{
           "Name": "Cockpit VM",
@@ -105,17 +77,6 @@
       ]
     }],
     [{
-      "Title": "Job Links",
-      "Links": [
-        [{
-          "Name": "Summer of Tech",
-          "Link": "https://app.summeroftech.co.nz/students/me/dashboard"
-        }, {
-          "Name": "SJS",
-          "Link": "https://sjs.co.nz"
-        }]
-      ]
-    }, {
       "Title": "General",
       "Links": [
         [{
@@ -164,22 +125,6 @@
           "Link": "https://bitbucket.org/dashboard/overview"
         }]
       ]
-    }],
-    [{
-      "Title": "ENGR301: Group Resources",
-      "Links": [
-        [{
-          "Name": "Code Coverage",
-          "Link": "https://course-work.glp.ecs.vuw.ac.nz/engr300/2020/group10/group-10/jacoco/"
-        }, {
-          "Name": "Javadocs",
-          "Link": "https://course-work.glp.ecs.vuw.ac.nz/engr300/2020/group10/group-10/javadoc/"
-        }, {
-          "Name": "Merge Requests",
-          "Link": "https://gitlab.ecs.vuw.ac.nz/course-work/engr300/2020/group10/group-10/-/merge_requests"
-        }]
-      ]
     }]
-
   ]
 }
