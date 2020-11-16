@@ -21,26 +21,6 @@
       ]
     }],
     [{
-      "Title": "University Links",
-      "Links": [
-        [{
-            "Name": "Gitlab",
-            "Link": "https://gitlab.ecs.vuw.ac.nz/"
-          },
-          {
-            "Name": "Mattermost",
-            "Link": "https://mattermost.ecs.vuw.ac.nz/engr300-2020/"
-          }
-        ],
-        [{
-          "Type": "GAP"
-        }],
-        [{
-          "Name": "Marks",
-          "Link": "https://apps.ecs.vuw.ac.nz/cgi-bin/studentmarks"
-        }]
-      ]
-    }, {
       "Title": "Server",
       "Links": [
         [{
