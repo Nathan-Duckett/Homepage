@@ -1,25 +1,26 @@
 {
   "Rows": [
-    [{
-      "Title": "Remote Access",
-      "Links": [
-        [{
-          "Name": "Parsec",
-          "Link": "https://app.parsecgaming.com/"
-        }]
-      ]
-    }, {
-      "Title": "Media",
-      "Links": [
-        [{
-          "Name": "Play Music",
-          "Link": "https://play.google.com/music/listen"
-        }, {
-          "Name": "Netflix",
-          "Link": "https://www.netflix.com/browse"
-        }]
-      ]
-    }],
+    [
+      {
+        "Title": "Work",
+        "Links": [
+          [
+            {
+              "Name": "AWS Sandpit",
+              "Link": "https://console.aws.amazon.com/"
+            },
+            {
+              "Name": "GCP",
+              "Link": "https://console.cloud.google.com/"
+            },
+            {
+              "Name": "Azure",
+              "Link": "https://portal.azure.com/"
+            }
+          ]
+        ]
+      }
+    ],
     [{
       "Title": "Server",
       "Links": [
